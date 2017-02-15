@@ -1,0 +1,8 @@
+# ignore packages installed by npm
+node_modules
+
+# put any other files you do not want git
+# to check in below, e.g., *.bak.
+git *~
+.DS_Store
+
