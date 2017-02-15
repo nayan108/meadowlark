@@ -1,8 +1,21 @@
 # ignore packages installed by npm
-node_modules
+node_modules*
 
 # put any other files you do not want git
 # to check in below, e.g., *.bak.
 git *~
 .DS_Store
+
+# we do not want to checkout secret credentials
+# into the repo.
+credentials.js
+
+# do not commit log files
+log
+
+# ignore uploaded data
+data
+
+# do not store SSL certs in repo.
+ssl
 
