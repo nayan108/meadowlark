@@ -5,9 +5,9 @@ Example web-site for a fictitious travel company using the information in the bo
 
 ## Progress 
 
-Chapter 2:    Node environment; event-driven routing.
+* Chapter 2:    Node environment; event-driven routing.
 
-Chapter 3:    Express layout; Views for routes.
+* Chapter 3:    Express layout; Views for routes.
 
-Chapter 4:    Git; re-usable modules.
+* Chapter 4:    Git; re-usable modules.
 
